@@ -1,6 +1,10 @@
 # CHANGELOG for 2.x
 
-## [Unreleased](https://github.com/php-flasher/php-flasher/compare/v2.1.1...2.x)
+## [Unreleased](https://github.com/php-flasher/php-flasher/compare/v2.1.2...2.x)
+
+## [v2.1.2](https://github.com/php-flasher/php-flasher/compare/v2.1.1...v2.1.2) - 2025-01-18
+
+* bug [#208](https://github.com/php-flasher/php-flasher/issues/208) [Flasher] Allow `main_script` to be nullable. See [PR #209](https://github.com/php-flasher/php-flasher/pull/209) by [yoeunes](https://github.com/yoeunes)
 
 ## [v2.1.1](https://github.com/php-flasher/php-flasher/compare/v2.1.0...v2.1.1) - 2024-10-20
 
