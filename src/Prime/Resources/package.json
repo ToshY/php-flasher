@@ -1,6 +1,6 @@
 {
-    "name": "@flasher/flasher",
-    "version": "2.1.1",
+    "name": "@nanone/flasher",
+    "version": "2.1.4",
     "type": "module",
     "license": "MIT",
     "main": "dist/flasher.cjs.js",
